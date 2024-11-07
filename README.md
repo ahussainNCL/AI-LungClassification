@@ -27,7 +27,7 @@ This section outlines the steps to set up the AI Lung Classification Project loc
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/AbdullahHDev/AI-LungClassification.git`
+1. Clone the repository: `git clone https://github.com/ahussainNCL/AI-LungClassification.git`
 2. Run the Streamlit application: `streamlit run lung_classifier.py`
 
 ### Usage
@@ -71,7 +71,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Abdullah Hussain - A.A.Hussain1@newcastle.ac.uk
 
-Project Link: [https://github.com/AbdullahHDev/AI-LungClassification](https://github.com/AbdullahHDev/AI-LungClassification)
+Project Link: [https://github.com/ahussainNCL/AI-LungClassification](https://github.com/ahussainNCL/AI-LungClassification)
 
 ## Acknowledgments
 
